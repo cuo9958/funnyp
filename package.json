@@ -1,5 +1,5 @@
 {
-  "name": "@dal/funnyp",
+  "name": "dal_funnyp",
   "version": "2.2.4",
   "description": "A proxy tool designed for devloper",
   "main": "index.js",
@@ -43,6 +43,6 @@
   },
   "preferGlobal": true,
   "bin": {
-    "funnyp": "index.js"
+    "dal_funnyp": "index.js"
   }
 }
